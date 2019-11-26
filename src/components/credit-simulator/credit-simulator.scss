@@ -1,0 +1,65 @@
+.simulator {
+    margin-top: 10rem;
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    height: 40rem;
+    background: rgb(11,75,103);
+    background: linear-gradient(0deg, #0f578a 0%, #1778bd 100%);
+}
+
+.subcontainer {
+    width: 100%;
+    margin: 3rem;
+    background: rgb(47,115,226);
+    background: linear-gradient(0deg, #1267a3 0%, #054573 100%);
+}
+
+.title {
+    margin: 4rem auto;
+    font-weight: bolder;
+}
+
+.installment {
+    margin: 0 4rem;
+    background-color: #075ed9;
+    margin-top: 3rem
+}
+
+.buttonwrapper {
+    margin: 0 3rem;
+}
+
+.obtain {
+    background-color: #2fd1d4;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+    margin-right: 1.3rem;
+    margin-top: 0.5rem;
+}
+
+.details {
+    background-color: #1a7fc7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+}

@@ -1,0 +1,26 @@
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin: auto 2rem;
+    margin-bottom: 2rem;
+}
+
+.title {
+    font-size: 1rem;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+    background: transparent;
+    border: 1px solid #fff;
+    padding: 0.5rem;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: bold;
+    text-align: center;
+}
